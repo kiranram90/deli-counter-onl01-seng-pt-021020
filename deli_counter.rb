@@ -1,3 +1,6 @@
+katz_deli = ["Moshe", "Fayge", "Rivki"]
+
+
 def line(array) # this was the one I figured out
   if array.length >= 1
     nuarray = []
